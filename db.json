@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is fresh.",
+      "date": "2023-01-09T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "Mango fruit",
+      "date": "2023-01-03T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Samsung galaxy j7",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 5000,
+      "comment": "This is second hand mobile phone.",
+      "date": "2023-01-11T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Potatoes",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "This is fresh potatoes",
+      "date": "2023-01-05T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Ipad",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 3500,
+      "comment": "This is second hand ipad.",
+      "date": "2023-01-07T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
